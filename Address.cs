@@ -13,7 +13,7 @@ namespace DojoMemberManager
         string state;
         int zipcode;
 
-        public Address(int house, String street, String city, String state, int zip)
+        public Address(int house = 123, String street = "Fake St.", String city = "City", String state = "ST", int zip= 55555)
         {
             houseNumber = house;
             this.street = street;

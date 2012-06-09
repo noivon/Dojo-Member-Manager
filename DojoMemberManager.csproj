@@ -55,7 +55,6 @@
     </Compile>
     <Compile Include="Member.cs" />
     <Compile Include="MemberManager.cs" />
-    <Compile Include="PhoneNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
